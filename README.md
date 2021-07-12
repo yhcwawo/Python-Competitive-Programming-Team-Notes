@@ -1,3 +1,5 @@
+![Soft](https://capsule-render.vercel.app/api?type=Soft&height=150&text=Python%_Algorithm&color=gradient&fontSize=70&animation=twinkling)
+
 ## Python Competitive Programming Team Notes
 
 * This repository is a python library for PS(Problem-Solving) Competition.
